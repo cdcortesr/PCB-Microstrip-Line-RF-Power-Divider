@@ -7,9 +7,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/dKDLb9i.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/dKDLb9i.png">
-  <img alt="a." src="https://i.imgur.com/dKDLb9i.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
+  <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
 </picture>
 
 • Design and simulation of an RF power divider based on PCB microstrip line technology following [Bailey’s version](https://github.com/cdcortesr/WiFi-Band-Unequal-Split-Power-Divider/blob/main/19800023177.pdf) to achieve unequal output power ratios at 2.45 GHz. 
