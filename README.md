@@ -16,10 +16,12 @@
   <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider2.JPG">
 </picture>
 
+• Main benefit of this printed power splitter is the ability to achieve different output power ratios without dependency on the characteristic impedance of the line. Feeding networks that require different power ratios but same phase can benefit the bailey coupler. If different phase is required, it can be easily achieved by extending one of the output lines.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
   <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
 </picture>
 
-•(drawing, s-parameters magnitude and phase, current density).
+
