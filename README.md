@@ -11,15 +11,15 @@
 • Simulation was performed using ADS (Advanced Design System) and CST Studio Suite for an output power of Pout1=2*Pout2.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
-  <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider2.JPG">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider2.JPG">
   <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider2.JPG">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
+  <img alt="a." src="https://raw.githubusercontent.com/cdcortesr/PCB-Microstrip-Line-RF-Power-Divider/refs/heads/main/RFDivider3.JPG">
 </picture>
 
 •(drawing, s-parameters magnitude and phase, current density).
